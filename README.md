@@ -41,7 +41,7 @@ DI = revenue / (budget x 2.5)
 | Model | R² | RMSE |
 |-------|----|------|
 | OLS Simplu | 0.163 | 7.47 |
-| OLS Log(DI) | 0.061 | — |
+| OLS Log(DI) | 0.061 | 7.91 |
 | OLS Standardizat | 0.163 | 7.47 |
 | Random Forest | 0.477 | 5.90 |
 | **Gradient Boosting**  | **0.494** | **5.81** |
