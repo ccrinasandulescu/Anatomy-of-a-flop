@@ -54,7 +54,7 @@ DI = revenue / (budget x 2.5)
 
 - **Bugetul mare nu garantează succesul** - corelație budget ↔ DI = −0.25
 - **Anul lansării e cel mai important predictor** - industria devine tot mai impredictibilă
-- **Modelele ML bat regresia liniară de 3x** - relația nu este liniară
+- **Modelele ML sunt de 3 ori mai bune decât regresia liniară** - relația nu este liniară
 - **50% din variație rămâne neexplicată** - magia unui film nu se poate cuantifica
 
 ---
