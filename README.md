@@ -4,7 +4,7 @@
 
 Analizăm de ce filme cu bugete uriașe eșuează comercial, în timp ce filme cu resurse minime devin legendare.
 
-Am construit un **Disappointment Index (DI)** — o metrică care măsoară discrepanța dintre ce merita un film să câștige și ce a câștigat de fapt în realitate, apoi am antrenat mai multe modele statistice pentru a-l prezice.
+Am construit un **Disappointment Index (DI)**, o metrică care măsoară discrepanța dintre ce merita un film să câștige și ce a câștigat de fapt în realitate, apoi am antrenat mai multe modele statistice pentru a-l prezice.
 
 ---
 
